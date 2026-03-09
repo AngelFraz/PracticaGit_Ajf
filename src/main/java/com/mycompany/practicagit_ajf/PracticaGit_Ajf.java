@@ -12,7 +12,7 @@ public class PracticaGit_Ajf {
 
     public static void main(String[] args) {
      System.out.println("--- Sistema de Gestión de Alumnos ---");
-     
+     System.out.println("Bienvenido, Usuario Estudiante.");
      
      
      
